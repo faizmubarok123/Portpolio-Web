@@ -6,7 +6,7 @@ const projek1 = {
         "Alikasi Web untuk menghitung zakat emas dengan fitur riawayat penyimpanan menggunakan localStorage",
     image: "",
     tags: ["LocalStorage"],
-    link: "https://github.com/faizmubarok123/aplikasi-calculator-form-hover.and.domlampu-traffict-etc",
+    link: "https://github.com/faizmubarok123/aplikasi-calculator-form-hover.and.domlampu-traffict-etc/blob/9f961083ce1c4d1ea4d88afd814f2e633edd942e/calculator.html",
 };
 
 const projek2 = {
@@ -14,7 +14,7 @@ const projek2 = {
     description: "Simulasi Lampu merah",
     image: "",
     tags: ["LocalStorage"],
-    link: "https://github.com/faizmubarok123/aplikasi-calculator-form-hover.and.domlampu-traffict-etc",
+    link: "https://github.com/faizmubarok123/aplikasi-calculator-form-hover.and.domlampu-traffict-etc/blob/9f961083ce1c4d1ea4d88afd814f2e633edd942e/lampu.html",
 };
 
 const projek3 = {
@@ -23,7 +23,7 @@ const projek3 = {
         "Alikasi Web untuk menghitung zakat emas dengan fitur riawayat penyimpanan menggunakan localStorage",
     image: "",
     tags: ["LocalStorage"],
-    link: "https://github.com/faizmubarok123/zakat-emas",
+    link: "https://github.com/faizmubarok123/Wajib-Zakat"
 };
 const myChannel = {
     title: "Channel Youtube",
